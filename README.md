@@ -1,6 +1,6 @@
 # Projct Link :
-  View Project 1 (Power BI):- <a href="https://github.com/rohitsinghsomvanshi/Project/tree/main/Proj1" target ="_blank"> Click On </a> <br>
-  View Project 2 (Python):- <a href="https://github.com/rohitsinghsomvanshi/Project/tree/main/Proj2" target ="_blank"> Click On </a>
+  View Project  (Power BI):- <a href="https://github.com/rohitsinghsomvanshi/Project/tree/main/Proj1" target ="_blank"> Click On </a> <br>
+  View Project  (Python):- <a href="https://github.com/rohitsinghsomvanshi/Project/tree/main/Proj2" target ="_blank"> Click On </a>
 
 
 # 📊 Power BI Sales Dashboard
