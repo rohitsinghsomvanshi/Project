@@ -91,9 +91,11 @@ The dashboard helps in understanding:
 📌 Aspiring Data Analyst  
 📌 Learning Power BI, SQL & Data Visualization
 
+----
+----
+----
 
-
-## 🎉 Project Second (Python)
+# 🎉 Project Second (Python)
 
 # 🎓 Student Performance Analysis Dashboard Using Python.
 
