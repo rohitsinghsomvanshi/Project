@@ -19,7 +19,7 @@ The dashboard helps in understanding:
 
 ## 🖥 Dashboard Preview
 
-<img width="100%" alt="Power BI Dashboard" src="https://github.com/rohitsinghsomvanshi/powerbi-1/blob/main/Screenshot%202026-06-02%20113746.png?raw=true">
+<img width="100%" alt="Power BI Dashboard" src="https://github.com/rohitsinghsomvanshi/Project/blob/main/Screenshot%202026-06-02%20113746.png?raw=true">
 
 ---
 
