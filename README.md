@@ -226,7 +226,7 @@ student_data.ipynb
 
 ## 📸 Dashboard Preview
 
-<img width ="100%" src="https://github.com/rohitsinghsomvanshi/Python/blob/main/dashboard.png?raw=true">
+<img width ="100%" src="https://github.com/rohitsinghsomvanshi/Project/blob/main/p2_dashboard.png?raw=true">
 
 ## 🎯 Learning Outcomes
 
