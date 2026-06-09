@@ -88,23 +88,14 @@ The dashboard helps in understanding:
 ---
 
 ## 👨‍💻 Author
-
-**Rohit Singh**
-
 📌 Aspiring Data Analyst  
 📌 Learning Power BI, SQL & Data Visualization
 
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
 
 
+## 🎉 Project Second (Python)
 
-
-
-# 🎓 Student Performance Analysis Dashboard
+# 🎓 Student Performance Analysis Dashboard Using Python.
 
 A complete Data Analysis and Visualization project built using
 **Python, NumPy, Pandas, Matplotlib, and Seaborn**.
