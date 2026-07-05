@@ -1,5 +1,5 @@
 # Projct Link :
-  Sales Data Analysis (Power BI):- <a href="https://github.com/rohitsinghsomvanshi/Project/tree/main/Proj1" target ="_blank"> Click On </a> <br>
+  Sales Data Analysis (Power BI):- <a href="https://github.com/rohitsinghsomvanshi/Project/blob/main/Proj1/2pbiproj.pbix" target ="_blank"> Click On </a> <br>
   Student Result Anlysis (Python):- <a href="https://github.com/rohitsinghsomvanshi/Project/tree/main/Proj2" target ="_blank"> Click On </a>
 
 
