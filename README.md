@@ -232,7 +232,7 @@ student_data.ipynb
 - Statistical Analysis
 - Data Visualization
 - Correlation Analysis
-- Python Programming
+- Python Programming 
 - Dashboard Design
 
 ---
