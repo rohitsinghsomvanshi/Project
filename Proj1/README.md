@@ -93,7 +93,7 @@ Shows quantity ordered across different states/countries.
 
 Example:
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/rohitsinghsomvanshi/Project/blob/main/Proj1/sales_data.png?raw=true)
 
 ---
 
