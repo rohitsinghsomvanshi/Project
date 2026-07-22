@@ -89,10 +89,6 @@ Shows quantity ordered across different states/countries.
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
 ![Dashboard Preview](https://github.com/rohitsinghsomvanshi/Project/blob/main/Proj1/sales_data.png?raw=true)
 
 ---
