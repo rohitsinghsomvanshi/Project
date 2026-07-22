@@ -1,6 +1,6 @@
 from turtle import *
 import colorsys
-speed(-5)
+speed(-9)
 bgcolor("black")
 pensize(2)
 hideturtle()
@@ -15,5 +15,5 @@ for i in range(16):
         left(90)
         circle(150 - j * 6, 90)
         right(180)
-    circle(40, 22.5)
+    circle(40, 24.5)
 done()
