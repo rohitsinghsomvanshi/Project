@@ -1,4 +1,8 @@
 # 📊 Sales Data  Analysis Dashboard (Power BI)
+   <p align="center">
+     <a href="https://github.com/rohitsinghsomvanshi/Project/blob/main/Proj1/2pbiproj.pbix">Click and Download the code of the Project </a>
+   </p>
+   
 
 ## 📌 Project Overview
 
